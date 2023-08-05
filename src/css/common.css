@@ -16,3 +16,13 @@ img {
   display: block;
   max-width: 100%;
 }
+
+.btn {
+  font-size: large;
+  text-transform: uppercase;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+  height: 60px;
+}
